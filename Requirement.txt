@@ -1,0 +1,32 @@
+Dependencies required for NoteBook:-
+1. Pandas
+2. Numpy
+3. Keras
+4. Matplotlib
+5. Seaborn
+6. re
+7. string
+8. nltk
+9. sklearn
+10. joblib
+11. pickle
+
+Dependencies required for main.py:-
+1. fastapi
+2. python-multipart
+3. numpy
+4. pandas
+5. starlette
+6. tensorflow
+7. re
+
+Dependencies required for application.py:-
+1. Pandas
+2. Numpy
+3. Keras
+4. re
+5. string
+6. nltk
+7. sklearn
+8. joblib
+9. pickle
